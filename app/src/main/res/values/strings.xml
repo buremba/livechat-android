@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rakam</string>
+    <string name="title_activity_project_list">ProjectListActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_project">ProjectActivity</string>
+
+
+    <string name="title_section1">Online Users</string>
+    <string name="title_section2">Active Chats</string>
+    <string name="title_activity_visitor_chat">VisitorChatActivity</string>
+</resources>
